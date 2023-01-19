@@ -259,7 +259,7 @@
         <div class="row mt-5 d-flex justify-content-center">
           <div class="col-md-8 text-center heading-section ftco-animate">
             <h2 class="h1">Grid installation, <strong class="px-3">Roof Top</strong> installation, with more than 5 years of experience in deploying solar panels</h2>
-            <p><a href="portfolio.html" class="btn btn-primary mt-3 py-3 px-5">Our Projects</a></p>
+            <p><a href="#" class="btn btn-primary mt-3 py-3 px-5">Our Projects</a></p>
           </div>
         </div>
       </div>
