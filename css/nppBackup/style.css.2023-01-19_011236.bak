@@ -7470,7 +7470,7 @@ h1, h2, h3, h4, h5,
 
 #particles-js {
   position: absolute;
-  background: #fff;
+  background: #CFDFF8;
   top: 0;
   left: 0;
   bottom: 0;
@@ -8260,7 +8260,7 @@ textarea.form-control {
   font-weight: 700; }
 
 .heading-section.heading-section-white p {
-  color: rgba(255, 255, 255, 0.7); }
+  color: rgba(0, 0, 255, 0.7); }
 
 .img,
 .work-img,

@@ -7470,7 +7470,7 @@ h1, h2, h3, h4, h5,
 
 #particles-js {
   position: absolute;
-  background: #fff;
+  background: #CFDFF8;
   top: 0;
   left: 0;
   bottom: 0;
@@ -8099,7 +8099,7 @@ textarea.form-control {
     color: #121263; }
   .media-custom .media-body .position {
     font-size: 13px;
-    color: white; }
+    color: black; }
 
 .about-author .desc h3 {
   font-size: 24px; }

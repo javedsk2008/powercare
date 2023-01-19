@@ -7459,14 +7459,14 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .97;
-    background: #ddd;
+    background: #ffffff;
     background: -moz-linear-gradient(45deg, #000 0%, #ddd 100%);
     background: -webkit-gradient(left bottom, right top, color-stop(0%, #fff), color-stop(100%, #ddd));
     background: -webkit-linear-gradient(45deg, #000000 0%, #000000 100%);
     background: -o-linear-gradient(45deg, #000 0%, #ddd 100%);
     background: -ms-linear-gradient(45deg, #000000 0%, #ddd 100%);
     background: linear-gradient(45deg, #ddd 0%, #000000 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cde510', endColorstr='#ddd', GradientType=1 ); }
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff', endColorstr='#ddd', GradientType=1 ); }
 
 #particles-js {
   position: absolute;

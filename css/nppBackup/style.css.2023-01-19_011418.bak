@@ -5005,7 +5005,7 @@ button.bg-dark:focus {
   background-color: #1d2124 !important; }
 
 .bg-white {
-  background-color: #fff !important; }
+  background-color: #000 !important; }
 
 .bg-transparent {
   background-color: transparent !important; }
@@ -7470,7 +7470,7 @@ h1, h2, h3, h4, h5,
 
 #particles-js {
   position: absolute;
-  background: #fff;
+  background: #CFDFF8;
   top: 0;
   left: 0;
   bottom: 0;

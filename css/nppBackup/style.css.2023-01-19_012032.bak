@@ -400,7 +400,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #cef420;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -7470,7 +7470,7 @@ h1, h2, h3, h4, h5,
 
 #particles-js {
   position: absolute;
-  background: #fff;
+  background: #CFDFF8;
   top: 0;
   left: 0;
   bottom: 0;

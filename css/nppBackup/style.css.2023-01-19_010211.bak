@@ -7459,7 +7459,7 @@ h1, h2, h3, h4, h5,
     bottom: 0;
     content: '';
     opacity: .97;
-    background: #ddd;
+    background: #000;
     background: -moz-linear-gradient(45deg, #000 0%, #ddd 100%);
     background: -webkit-gradient(left bottom, right top, color-stop(0%, #fff), color-stop(100%, #ddd));
     background: -webkit-linear-gradient(45deg, #000000 0%, #000000 100%);

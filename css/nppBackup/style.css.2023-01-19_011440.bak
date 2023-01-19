@@ -5065,7 +5065,7 @@ button.bg-dark:focus {
   border-color: #343a40 !important; }
 
 .border-white {
-  border-color: #fff !important; }
+  border-color: #000 !important; }
 
 .rounded {
   border-radius: 0.25rem !important; }
@@ -7470,7 +7470,7 @@ h1, h2, h3, h4, h5,
 
 #particles-js {
   position: absolute;
-  background: #fff;
+  background: #CFDFF8;
   top: 0;
   left: 0;
   bottom: 0;

@@ -490,6 +490,7 @@ pre {
   margin-left: -15px; }
 
 .no-gutters {
+	color:black;
   margin-right: 0;
   margin-left: 0; }
   .no-gutters > .col,
@@ -7470,7 +7471,7 @@ h1, h2, h3, h4, h5,
 
 #particles-js {
   position: absolute;
-  background: #fff;
+  background: #CFDFF8;
   top: 0;
   left: 0;
   bottom: 0;
