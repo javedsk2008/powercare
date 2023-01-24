@@ -11,7 +11,7 @@ particlesJS("particles-js", {
     },
   
   "color": {
-      "value": "#FFD700"
+      "value": "#2269B9"
     },
     "shape": {
       "type": "polygon",
@@ -53,7 +53,7 @@ particlesJS("particles-js", {
   "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#ffd700",
+      "color": "#2269B9",
       "opacity": 0.7,
       "width": 2    },
    
