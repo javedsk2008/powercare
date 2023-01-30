@@ -129,21 +129,21 @@
             <div class="text">
               <h4 class="subheading">Material Handling System</h4>
               <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Material Handling System</a></h2>
-              <p>W have completed installation of Solar Power Plant for manufacturer of Material Handling System in Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
+              <p>W have completed installation of Solar Power Plant for manufacturer of agro produc in Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
               <p><a href="" class="btn btn-primary px-4">Completed</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
             <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text order-1">
-              <h4 class="subheading">Cold Storage</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Cold Storage System</a></h2>
+              <h4 class="subheading">Oil Engine Manufacturers</h4>
+              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for manufacturer of Oil Engine</a></h2>
               <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
               <p><a href="" class="btn btn-primary px-4">Completed</a></p>
             </div>
           </div>
         </div>
-        <!-- <div class="row mt-5">
+        <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
               <ul>
@@ -157,7 +157,7 @@
               </ul>
             </div>
           </div>
-        </div> -->
+        </div>
       </div>
     </section>
     

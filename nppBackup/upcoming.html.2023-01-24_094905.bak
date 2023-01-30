@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Powercare - Projects</title>
+    <title>Powercare | Upcoming Projects</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -28,9 +28,9 @@
   </head>
   <body>
     
-    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html"><img src = ""><font color="navy">PowerCare-Group</font></a>
+      <a class="navbar-brand" href="index.html"><img src = "images/logo.png" height="75" width="75"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
@@ -42,7 +42,6 @@
 		  <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
 		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
 		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
 		 <li class="nav-item "><a href="projects.html" class="nav-link">Projects</a></li>
 		  <li class="nav-item active"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
           
@@ -55,7 +54,7 @@
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
           <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-          <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
+          <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li>
         </ul>
       </div>
     </div>
@@ -68,98 +67,91 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">PowerCare</a></span> <span></span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Projects</h1>
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Powercare</a></span> <span class="mr-2"><a href="blog.html"></a></span> <span></span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Upcoming Projects</h1>
           </div>
         </div>
       </div>
     </div>
     
-    <section class="ftco-section">
+    <section class="ftco-section ftco-degree-bg">
       <div class="container">
-        <div class="row no-gutters justify-content-center mb-5 pb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
-            <span class="subheading">Works</span>
-            <h2 class="mb-4">View our works below to see our design and way of development.</h2>
-            <!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p> -->
-          </div>
-        </div>
         <div class="row">
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image" style="background-image: url('images/work/p1.jpeg'); " data-scrollax=" properties: { translateY: '-20%'}">
-            </a>
-            <div class="text">
-              <h4 class="subheading">Hospital</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Civil Hospital</a></h2>
-              <p>W have completed installation of Solar Power Plant for Ambajogai region in the district of Beed, Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+          
+          <div class="col-md-16 sidebar ftco-animate order-first">
+            <!-- <div class="sidebar-box">
+              <form action="#" class="search-form">
+                <div class="form-group">
+                  <span class="icon fa fa-search"></span>
+                  <input type="text" class="form-control" placeholder="Type a keyword and hit enter">
+                </div>
+              </form>
+            </div> -->
+            <div class="col-md-16 sidebar-box ftco-animate">
+              <div class="categories">
+                <h2> Our Upcoming Projects</h2>
+					
             </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text order-1">
-              <h4 class="subheading">IT Company</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for IT Company</a></h2>
-              <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+			
+			
+
+            <div class="sidebar-box ftco-animate">
+              <h3>Coming soon in Cities near you</h3>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>4 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> February, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                    
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>1.7 MW</b> Project coming soon in the city of <strong>MALEGAON</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> March, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                    <!-- <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>1.2 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> April, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
+                  </div>
+                </div>
+              </div>
             </div>
+
+            <!-- <div class="sidebar-box ftco-animate">
+              <h3>Tag Cloud</h3>
+              <div class="tagcloud">
+                <a href="#" class="tag-cloud-link">dish</a>
+                <a href="#" class="tag-cloud-link">menu</a>
+                <a href="#" class="tag-cloud-link">food</a>
+                <a href="#" class="tag-cloud-link">sweet</a>
+                <a href="#" class="tag-cloud-link">tasty</a>
+                <a href="#" class="tag-cloud-link">delicious</a>
+                <a href="#" class="tag-cloud-link">desserts</a>
+                <a href="#" class="tag-cloud-link">drinks</a>
+              </div>
+            </div> -->
+
+            
           </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image" style="background-image: url('images/work/p1.jpeg'); " data-scrollax=" properties: { translateY: '-20%'}">
-            </a>
-            <div class="text">
-              <h4 class="subheading">Agro Products</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Leading Manufacturers of Agro Products</a></h2>
-              <p>W have completed installation of Solar Power Plant for manufacturer of agro produc in Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
-            </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text order-1">
-              <h4 class="subheading">Oil Engine Manufacturers</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for manufacturer of Oil Engine</a></h2>
-              <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
-            </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image" style="background-image: url('images/work/p1.jpeg'); " data-scrollax=" properties: { translateY: '-20%'}">
-            </a>
-            <div class="text">
-              <h4 class="subheading">Material Handling System</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Material Handling System</a></h2>
-              <p>W have completed installation of Solar Power Plant for manufacturer of Material Handling System in Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
-            </div>
-          </div>
-          <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
-            <div class="text order-1">
-              <h4 class="subheading">Cold Storage</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Cold Storage System</a></h2>
-              <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
-            </div>
-          </div>
+
         </div>
-        <!-- <div class="row mt-5">
-          <div class="col text-center">
-            <div class="block-27">
-              <ul>
-                <li><a href="#">&lt;</a></li>
-                <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
-                <li><a href="#">&gt;</a></li>
-              </ul>
-            </div>
-          </div>
-        </div> -->
       </div>
-    </section>
+    </section> <!-- .section -->
     
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">
@@ -168,7 +160,7 @@
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Powercare</h2>
-              <p>One of the Best Solar Service Providers in Beed, dealing in vast variety of Solar Products that satisfy customer needs.</p>
+              <p>One of the Best Solar Service Providers in Maharashtra, dealing in vast variety of Solar Products that satisfy customer needs.</p>
             </div>
           </div>
           <div class="col-md">
@@ -215,6 +207,7 @@
         </div>
       </div>
     </footer>
+    
   
 
   <!-- loader -->

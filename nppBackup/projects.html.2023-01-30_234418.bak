@@ -39,13 +39,8 @@
         <ul class="navbar-nav ml-auto">
           <li class="nav-item "><a href="index.html" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-		  <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
-		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
-		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
-		 <li class="nav-item "><a href="projects.html" class="nav-link">Projects</a></li>
-		  <li class="nav-item active"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
-          
+		  <li class="nav-item active"><a href="portfolio.html" class="nav-link">Projects</a></li>
+          <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
          <!--  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="portfolio.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
@@ -55,7 +50,7 @@
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
           <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-          <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
+          <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li>
         </ul>
       </div>
     </div>
@@ -81,69 +76,67 @@
           <div class="col-md-7 text-center heading-section ftco-animate">
             <span class="subheading">Works</span>
             <h2 class="mb-4">View our works below to see our design and way of development.</h2>
-            <!-- <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p> -->
+            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
           </div>
         </div>
         <div class="row">
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image" style="background-image: url('images/work/p1.jpeg'); " data-scrollax=" properties: { translateY: '-20%'}">
+            <a href="portfolio.html" class="image" style="background-image: url('images/work-1.jpg'); " data-scrollax=" properties: { translateY: '-20%'}">
             </a>
             <div class="text">
-              <h4 class="subheading">Hospital</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Civil Hospital</a></h2>
-              <p>W have completed installation of Solar Power Plant for Ambajogai region in the district of Beed, Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+              <h4 class="subheading">Illustration</h4>
+              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-2.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text order-1">
-              <h4 class="subheading">IT Company</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for IT Company</a></h2>
-              <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+              <h4 class="subheading">Application</h4>
+              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image" style="background-image: url('images/work/p1.jpeg'); " data-scrollax=" properties: { translateY: '-20%'}">
-            </a>
+            <a href="portfolio.html" class="image" style="background-image: url('images/work-3.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text">
-              <h4 class="subheading">Agro Products</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Leading Manufacturers of Agro Products</a></h2>
-              <p>W have completed installation of Solar Power Plant for manufacturer of agro produc in Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+              <h4 class="subheading">Web Design</h4>
+              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-4.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text order-1">
-              <h4 class="subheading">Oil Engine Manufacturers</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for manufacturer of Oil Engine</a></h2>
-              <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+              <h4 class="subheading">Application</h4>
+              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image" style="background-image: url('images/work/p1.jpeg'); " data-scrollax=" properties: { translateY: '-20%'}">
-            </a>
+            <a href="portfolio.html" class="image" style="background-image: url('images/work-5.jpg'); " data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text">
-              <h4 class="subheading">Material Handling System</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Material Handling System</a></h2>
-              <p>W have completed installation of Solar Power Plant for manufacturer of Material Handling System in Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+              <h4 class="subheading">Web Design</h4>
+              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
             </div>
           </div>
           <div class="block-3 d-md-flex ftco-animate" data-scrollax-parent="true">
-            <a href="" class="image image-2 order-2" style="background-image: url('images/work/p1.jpeg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
+            <a href="portfolio.html" class="image image-2 order-2" style="background-image: url('images/work-6.jpg');" data-scrollax=" properties: { translateY: '-20%'}"></a>
             <div class="text order-1">
-              <h4 class="subheading">Cold Storage</h4>
-              <h2 class="heading"><a href="portfolio.html">Solar Power Plant for Cold Storage System</a></h2>
-              <p>W have completed installation of Solar Power Plant for Jalana region in the state of Maharashtra. It is 2 MW Plant, completed in a very short span of time</p>
-              <p><a href="" class="btn btn-primary px-4">Completed</a></p>
+              <h4 class="subheading">Application</h4>
+              <h2 class="heading"><a href="portfolio.html">Even the all-powerful Pointing has no control</a></h2>
+              <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+              <p><a href="portfolio.html" class="btn btn-primary px-4">View Portfolio</a></p>
             </div>
           </div>
         </div>
-        <!-- <div class="row mt-5">
+        <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
               <ul>
@@ -157,7 +150,7 @@
               </ul>
             </div>
           </div>
-        </div> -->
+        </div>
       </div>
     </section>
     

@@ -30,18 +30,19 @@
     
    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html"><img src = "images/logo.png" height="75" width="75"></a>
+     <a class="navbar-brand" href="index.html"><img src = ""><font color="navy">PowerCare-Group</font></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
 
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
-          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
+          <li class="nav-item "><a href="index.html" class="nav-link">Home</a></li>
           <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
 		  <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
 		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
 		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
+		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
 		 <li class="nav-item"><a href="projects.html" class="nav-link">Projects</a></li>
 		  <li class="nav-item"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
           
@@ -53,8 +54,8 @@
               </div>
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
-          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-          <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li>
+          <li class="nav-item active"><a href="contact.html" class="nav-link">Contact</a></li>
+          <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
         </ul>
       </div>
     </div>
@@ -97,21 +98,27 @@
         </div>
         <div class="row block-9">
           <div class="col-md-6 pr-md-5">
-            <form action="#">
+            <form action="feedback.php" method="POST">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
+                <input type="text" class="form-control" name="name" placeholder="Your Name">
+              </div>
+			  <div class="form-group">
+                <input type="number" class="form-control" name="mobile" placeholder="Your Mobile" required>
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Email">
+                <input type="email" class="form-control" name="email" placeholder="Your Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input type="text" class="form-control" name="bill" placeholder="Bill Number">
+              </div>
+			  <div class="form-group">
+                <input type="number" class="form-control" name="monthly_bill" placeholder="Monthly Bill ">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+                <input type="submit" value="Send Enquiry" class="btn btn-primary py-3 px-5">
               </div>
             </form>
           
