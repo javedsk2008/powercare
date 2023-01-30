@@ -1,4 +1,5 @@
 <?php
+include("config.php");
 	if (isset($_POST['submit']))
 		{
 			$name= $_POST['name'];
@@ -13,7 +14,39 @@
 			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Bill No: ".$bill."\n"."Monthly Bill: ".$monthly_bill."\n"."Message: ".$message;
 			$headers = "From: ".$email;
 			
-			if (($name=="") || ($email=="") || ($message=="") || ($bill=="") || ($monthly_bill==""))
+			if(mail($to, $subject, $message, $headers))
+			{
+			echo '<script>alert("Thank you for sending email, We will get back to you Shorlty")</script>';
+			
+//			header("Location: index.php");
+				
+			}
+			else
+			{
+				echo '<script>alert("Something Went Wrong")</script>';
+				header("Location: projects.html");
+			}
+		}
+		header("Location: contact.html");
+	//	echo '<script>alert("Thank you for sending email, We will get back to you Shorlty")</script>';
+		
+
+?><?php
+	if (isset($_POST['submit']))
+		{
+			$name= $_POST['name'];
+			$mobile= $_POST['mobile'];
+			$email= $_POST['email'];
+			$bill= $_POST['bill'];
+			$monthly_bill= $_POST['monthly_bill'];
+			$message= $_POST['message'];
+			
+			$to = 'javedsk2008@gmail.com';
+			$subject = 'Solar Enquiry';
+			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Bill No: ".$bill."\n"."Monthly Bill: ".$monthly_bill."\n"."Message: ".$message;
+			$headers = "From: ".$email;
+			
+			if (($name=="") || ($email=="") || ($message==""))
 			{
 			    echo '<script>alert("Please fill all the details and send your email again")</script>';
 			    printf("<script>location.href='contact.html'</script>");

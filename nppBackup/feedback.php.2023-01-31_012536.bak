@@ -13,7 +13,7 @@
 			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Bill No: ".$bill."\n"."Monthly Bill: ".$monthly_bill."\n"."Message: ".$message;
 			$headers = "From: ".$email;
 			
-			if (($name=="") || ($email=="") || ($message=="") || ($bill=="") || ($monthly_bill==""))
+			if (($name=="") || ($email=="") || ($message==""))
 			{
 			    echo '<script>alert("Please fill all the details and send your email again")</script>';
 			    printf("<script>location.href='contact.html'</script>");
