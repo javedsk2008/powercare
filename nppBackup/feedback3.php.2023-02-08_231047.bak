@@ -26,8 +26,8 @@
 				header("Location: contact.html");
 			}
 		}
-		echo '<script>alert("Thank you for Sending us email, We will contact you back in 24 Working Hours")</script>';
-			    printf("<script>location.href='index.html'</script>");
+		echo '<script>alert("Thank you for sending email, We will get back to you Shortly")</script>';
+		header("Location: services.html");
 	//	echo '<script>alert("Thank you for sending email, We will get back to you Shorlty")</script>';
 		
 
