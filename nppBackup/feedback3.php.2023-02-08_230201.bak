@@ -9,7 +9,7 @@
 			$message= $_POST['message'];
 			
 			$to = 'javedsk2008@gmail.com';
-			$subject = 'Solar Enquiry';
+			$subject = 'IT Enquiry';
 			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Bill: ".$bill."\n"."Message: ".$message;
 			$headers = "From: ".$email;
 			
