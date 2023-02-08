@@ -17,7 +17,7 @@
 			{
 			echo '<script>alert("Thank you for sending email, We will get back to you Shorlty")</script>';
 			
-			header("Location: index.html");
+			header("Location: index.php");
 				
 			}
 			else
