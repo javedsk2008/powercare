@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Powercare | Upcoming Projects</title>
+    <title>Powercare - About Us</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -38,13 +38,13 @@
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item "><a href="index.html" class="nav-link">Home</a></li>
-          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+          <li class="nav-item active"><a href="about.html" class="nav-link">About</a></li>
 		  <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
 		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
 		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
-		 <li class="nav-item "><a href="projects.html" class="nav-link">Projects</a></li>
-		  <li class="nav-item active"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
+		 <li class="nav-item"><a href="client.html" class="nav-link">Client List</a></li>
+		 <li class="nav-item"><a href="projects.html" class="nav-link">Projects</a></li>
+		  <li class="nav-item"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
           
          <!--  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="portfolio.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</a>
@@ -55,112 +55,138 @@
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
           <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-          <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
+         <!--  <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
         </ul>
       </div>
     </div>
   </nav>
     <!-- END nav -->
     
+    <!-- <div class="js-fullheight"> -->
     <div class="hero-wrap js-fullheight">
       <div class="overlay"></div>
       <div id="particles-js"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Powercare</a></span> <span class="mr-2"><a href="blog.html"></a></span> <span></span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Upcoming Projects</h1>
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">PowerCare</a></span> <span></span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">About Us</h1>
           </div>
         </div>
       </div>
     </div>
     
-    <section class="ftco-section ftco-degree-bg">
-      <div class="container">
-        <div class="row">
-          
-          <div class="col-md-16 sidebar ftco-animate order-first">
-            <!-- <div class="sidebar-box">
-              <form action="#" class="search-form">
-                <div class="form-group">
-                  <span class="icon fa fa-search"></span>
-                  <input type="text" class="form-control" placeholder="Type a keyword and hit enter">
-                </div>
-              </form>
-            </div> -->
-            <div class="col-md-16 sidebar-box ftco-animate">
-              <div class="categories">
-                <h2> Our Upcoming Projects</h2>
+    <div class="bg-light">
+      <section class="ftco-section-featured ftco-section-featured-2 ftco-animate">
+        <div class="container-fluid" data-scrollax-parent="true">
+          <div class="row mt-5 d-flex justify-content-center">
+            <div class="col-md-12 text-center heading-section ftco-animate">
+              <h2 class="h1"><strong class="px-3">About Powercare</strong> </h2>
+			  <h5>
+			  Powercare Energies has emerged as one of the well-established cleantech ventures focussed on the execution of Solar PV projects. 
+			  The company has been founded by the young and dynamic Entrepreneurs with a mission to help masses make a transition 
+			  to solar energy in a hassle-free manner.
+			  </h5>
+
+<h2>Our Vision</h2>
+
+<h5><ul>To Build Sustainable Solar Infrastructure that will power the aspirations of Institutions and Businesses for Generations. </ul></h5>
+
+<h2>Our Mission</h2>
+
+<h5>
+1. To be known as a company that cares for its customers.
+<br>
+
+2. To have all our teams and stakeholders aligned on the goal to build highest quality of Solar infrastructure.
+<br>
+3. To work through the project life cycle ensuring the Customer Wins with lowest LCOE (Levelized Cost of Energy). 
+
+			  </h5>
+              <p><a href="contact.html" class="btn btn-primary mt-3 py-3 px-5">Get in touch</a></p>
             </div>
+          </div>
+        </div>
+      </section>
+    </div>
 
-            <div class="sidebar-box ftco-animate">
-              <h3>Coming soon in Cities near you</h3>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>4 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> February, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                    
-                  </div>
-                </div>
+   <section class="ftco-section">
+      <div class="container">	  
+	  
+        <div class="row justify-content-center mb-5 pb-5">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <span class="subheading">Our Services</span>
+            <h2 class="mb-4">Services provided by Powercare</h2>
+            <h5> Powercare helps the energy consumers through the life cycle of a Solar power plant right from the feasibility and design to operations and maintenance 
+			through their project life. Our Target Market is Commercial & Industrial Power Consumers and Project Developers & Investors.</h5>
+          </div>
+        </div>
+		
+		
+		
+		<div class="row mt-5">
+          <div class="col-md-4 ftco-animate">           
+              <h3>Solar EPC</h3>
+             Powercare has an in-house end-to-end capability to build a customized Solar powered plant. 
+			  Our team is seasoned experts with experience in successfully handling projects involving every type of roof.
+          </div>
+          <div class="col-md-4 ftco-animate">           
+              <h3>Solar O&M</h3>
+             We have a dedicated Operations & Maintenance team for all our projects and also managing the Solar assets of leading Project developers & Investors. 
+			 The team monitors and services the Solar assets 24×7 leading to optimal power generation and maximum plant uptime.
+          </div>
+          <div class="col-md-4 ftco-animate">           
+              <h3>Solar BOOT</h3>
+            We invest, build and operate Solar plants for Commercial and Industrial entities while they pay only for the energy used. 
+			A suitable Power Purchase Agreement is signed to bring this into effect. 
+          </div>
+        </div>
+		<br><br><br>
+		
+		
+		
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-people"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Highly Qualified Team</h3>
+                <p>The company is founded by the Qualified Solar Professionals with experience accross the Globe</p>
               </div>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc2.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>1.7 MW</b> Project coming soon in the city of <strong>MALEGAON</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> March, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                    <!-- <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
+            </div>      
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-check"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Safety</h3>
+                <p>We ensure the safety of our workforce while adhering to the highest level of Health, Safety, and Environment norms.</p>
               </div>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc3.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>1.2 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> April, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
+            </div>      
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-gear"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Strong Execution Capability</h3>
+                <p>Our team consists of seasoned experts with experience in successfully handling projects involving every type of roof. </p>
               </div>
-			  <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc4.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>5 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Sept, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- <div class="sidebar-box ftco-animate">
-              <h3>Tag Cloud</h3>
-              <div class="tagcloud">
-                <a href="#" class="tag-cloud-link">dish</a>
-                <a href="#" class="tag-cloud-link">menu</a>
-                <a href="#" class="tag-cloud-link">food</a>
-                <a href="#" class="tag-cloud-link">sweet</a>
-                <a href="#" class="tag-cloud-link">tasty</a>
-                <a href="#" class="tag-cloud-link">delicious</a>
-                <a href="#" class="tag-cloud-link">desserts</a>
-                <a href="#" class="tag-cloud-link">drinks</a>
-              </div>
-            </div> -->
-
-            
+            </div>    
           </div>
 
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-user"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Focus on O&M</h3>
+                <p>Dedicated in-house team monitors and services the Solar assets 24×7 leading to optimal power generation and maximum plant uptime.</p>
+              </div>
+            </div>      
+          </div>
         </div>
+        
       </div>
-    </section> <!-- .section -->
+    </section>
     
 
     <footer class="ftco-footer ftco-bg-dark ftco-section">

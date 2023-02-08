@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Powercare | Upcoming Projects</title>
+    <title>Powercare - Contact</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -28,7 +28,7 @@
   </head>
   <body>
     
-  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
      <a class="navbar-brand" href="index.html"><img src = ""><font color="navy">PowerCare-Group</font></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -43,8 +43,8 @@
 		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
 		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
 		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
-		 <li class="nav-item "><a href="projects.html" class="nav-link">Projects</a></li>
-		  <li class="nav-item active"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
+		 <li class="nav-item"><a href="projects.html" class="nav-link">Projects</a></li>
+		  <li class="nav-item"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
           
          <!--  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="portfolio.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</a>
@@ -54,7 +54,7 @@
               </div>
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
-          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+          <li class="nav-item active"><a href="contact.html" class="nav-link">Contact</a></li>
           <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
         </ul>
       </div>
@@ -68,102 +68,71 @@
       <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
-            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Powercare</a></span> <span class="mr-2"><a href="blog.html"></a></span> <span></span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Upcoming Projects</h1>
+            <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">PowerCare</a></span> <span></span></p>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Contact</h1>
           </div>
         </div>
       </div>
     </div>
     
-    <section class="ftco-section ftco-degree-bg">
-      <div class="container">
-        <div class="row">
+    <section class="ftco-section contact-section ftco-degree-bg">
+      <div class="container bg-light">
+        <div class="row d-flex mb-5 contact-info">
+          <div class="col-md-12 mb-4">
+            <h2 class="h4">Contact Information</h2>
+          </div>
+          <div class="w-100"></div>
+          <div class="col-md-3">
+            <p><span>Address:</span> G-32 Atther Babar Complex Nagar Parishad, Bashir Ganj, Beed, Maharashtra 431122</p>
+          </div>
+          <div class="col-md-3">
+            <p><span>Phone:</span> <br><a href="">+91 9028-777-471</a></p>
+			<p><span>Phone:</span> <br><a href="">+91 9405-567-771</a></p>
+          </div>
+          <div class="col-md-3">
+            <p><span>Email:</span> <a href="mailto:info@yoursite.com">powercare777@gmail.com</a></p>
+          </div>
+          <div class="col-md-3">
+            <p><span>Website</span> <a href="#">www.powercaregroup.com</a></p>
+          </div>
+        </div>
+        <div class="row block-9">
+          <div class="col-md-6 pr-md-5">
+            <form action="feedback.php" method="POST">
+              <div class="form-group">
+                <input type="text" class="form-control" name="name" placeholder="Your Name">
+              </div>
+			  <div class="form-group">
+                <input type="number" class="form-control" name="mobile" placeholder="Your Mobile" required>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" name="email" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="bill" placeholder="Bill Number">
+              </div>
+			  <div class="form-group">
+                <input type="number" class="form-control" name="monthly_bill" placeholder="Monthly Bill ">
+              </div>
+              <div class="form-group">
+                <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+                <button name="submit" type="submit" value="Send Enquiry" class="btn btn-primary py-3 px-5">
+              </div>
+            </form>
           
-          <div class="col-md-16 sidebar ftco-animate order-first">
-            <!-- <div class="sidebar-box">
-              <form action="#" class="search-form">
-                <div class="form-group">
-                  <span class="icon fa fa-search"></span>
-                  <input type="text" class="form-control" placeholder="Type a keyword and hit enter">
-                </div>
-              </form>
-            </div> -->
-            <div class="col-md-16 sidebar-box ftco-animate">
-              <div class="categories">
-                <h2> Our Upcoming Projects</h2>
-            </div>
-
-            <div class="sidebar-box ftco-animate">
-              <h3>Coming soon in Cities near you</h3>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>4 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> February, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                    
-                  </div>
-                </div>
-              </div>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc2.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>1.7 MW</b> Project coming soon in the city of <strong>MALEGAON</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> March, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                    <!-- <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
-              </div>
-              <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc3.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>1.2 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> April, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
-              </div>
-			  <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc4.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>5 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Sept, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!-- <div class="sidebar-box ftco-animate">
-              <h3>Tag Cloud</h3>
-              <div class="tagcloud">
-                <a href="#" class="tag-cloud-link">dish</a>
-                <a href="#" class="tag-cloud-link">menu</a>
-                <a href="#" class="tag-cloud-link">food</a>
-                <a href="#" class="tag-cloud-link">sweet</a>
-                <a href="#" class="tag-cloud-link">tasty</a>
-                <a href="#" class="tag-cloud-link">delicious</a>
-                <a href="#" class="tag-cloud-link">desserts</a>
-                <a href="#" class="tag-cloud-link">drinks</a>
-              </div>
-            </div> -->
-
-            
           </div>
 
-        </div>
+          <div class="col-md-6"> 
+		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15090.782645086534!2d75.74644013436173!3d18.989043531021156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc52ade723b6f6b%3A0x154e5a1a0a9836e1!2sPower%20Care%20Group!5e0!3m2!1sen!2sin!4v1674066996429!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+		  </div>
+       </div>
       </div>
-    </section> <!-- .section -->
+    </section>
     
 
-    <footer class="ftco-footer ftco-bg-dark ftco-section">
+   <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
@@ -190,7 +159,7 @@
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">G-32 Atther Babar Complex Nagar Parishad, Bashir Ganj, Beed, Maharashtra 431122</a></li>
-                <li><a href="#" class="py-2 d-block">+91 9405-567-771</a></li>
+                <li><a href="#" class="py-2 d-block">+91 9028-777-471</a></li>
                 <li><a href="#" class="py-2 d-block">powercare777@gmail.com</a></li>
                 <li><a href="#" class="py-2 d-block">www.powercaregroup.com</a></li>
               </ul>

@@ -107,7 +107,7 @@
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc2.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#"><b>1.7 MW</b> Project coming soon in the city of <strong>MALEGAON</strong></a></h3>
                   <div class="meta">
@@ -118,22 +118,11 @@
                 </div>
               </div>
               <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc3.jpg);"></a>
+                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
                 <div class="text">
                   <h3 class="heading"><a href="#"><b>1.2 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
                   <div class="meta">
                     <div><a href="#"><span class="icon-calendar"></span> April, 2023</a></div>
-                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
-                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
-                  </div>
-                </div>
-              </div>
-			  <div class="block-21 mb-4 d-flex">
-                <a class="blog-img mr-4" style="background-image: url(images/uc4.jpg);"></a>
-                <div class="text">
-                  <h3 class="heading"><a href="#"><b>5 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
-                  <div class="meta">
-                    <div><a href="#"><span class="icon-calendar"></span> Sept, 2023</a></div>
                     <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
                    <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
                   </div>

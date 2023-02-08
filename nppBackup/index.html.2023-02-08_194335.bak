@@ -97,12 +97,12 @@
           </div> -->
 		  
 		  
-		  <div class="col-md-6">
+		  <!-- <div class="col-md-6">
             <div class="row no-gutters">
               <div class="col-md-12">
                 <div class="row no-gutters d-flex align-items-end">
 
-                  <!-- <div class="col-md-8">
+                  <div class="col-md-8">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
                         <h3>Solar Panel<br><span class="tag">Beed</span></h3>
@@ -110,30 +110,30 @@
                       <img src="images/work/1.jpeg" class="img-fluid" alt="">
                       <div class="text p-4 d-flex align-items-center">
                         <div class="user d-flex align-items-center">
-                          <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>Solar Panel <br><span class="position">Beed</span></h3>
+                          <!-- <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div> -->
+                          <!-- <h3>Solar Panel <br><span class="position">Beed</span></h3>
                         </div>
                       </div>
                     </a>
                   </div> -->
-
-                 <!--  <div class="col-md-4">
+ -->
+                  <!-- <div class="col-md-4">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
                         <h3>Solar Meter<br><span class="tag">Beed</span></h3>
                       </div>
                       <img src="images/work/2.jpeg" class="img-fluid" alt="">
                       <div class="text p-4 d-flex align-items-center">
-                        <div class="user d-flex align-items-center">
-                          <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
+                        <div class="user d-flex align-items-center"> -->
+                          <!-- <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div> -->
                           <h3>Solar Meter <br><span class="position">Beed</span></h3>
-                        </div>
+                        <!-- </div>
                       </div>
                     </a>
-                  </div> -->
+                  </div>
                   
                 </div>
-              </div>
+              </div> -->
 
               <div class="col-md-12">
                 <div class="row no-gutters d-flex align-items-start">
@@ -177,7 +177,7 @@
               <div class="col-md-12">
                 <div class="row no-gutters d-flex align-items-end">
 
-                  <div class="col-md-8">
+<!--                   <div class="col-md-8">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
                         <h3>Racks<br><span class="tag">Website</span></h3>
@@ -190,9 +190,9 @@
                         </div>
                       </div>
                     </a>
-                  </div>
+                  </div> -->
 
-                  <div class="col-md-4">
+                  <!-- <div class="col-md-4">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
                         <h3>Zendesk<br><span class="tag">Website</span></h3>
@@ -205,14 +205,14 @@
                         </div>
                       </div>
                     </a>
-                  </div>
+                  </div> -->
                   
                 </div>
               </div>
 
               <div class="col-md-12">
                 <div class="row no-gutters d-flex align-items-start">
-                  <!-- <div class="col-md-8">
+                  <div class="col-md-8">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
                         <h3>Curator<br><span class="tag">Website</span></h3>
@@ -225,8 +225,8 @@
                         </div>
                       </div>
                     </a>
-                  </div> -->
-                  <!-- <div class="col-md-4">
+                  </div>
+                  <div class="col-md-4">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
                         <h3>Tasty<br><span class="tag">Website</span></h3>
@@ -239,7 +239,7 @@
                         </div>
                       </div>
                     </a>
-                  </div> -->
+                  </div>
                 </div>
               </div>
             </div>
@@ -606,7 +606,7 @@
               <h2 class="ftco-heading-2">Contact Information</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">G-32 Atther Babar Complex Nagar Parishad, Bashir Ganj, Beed, Maharashtra 431122</a></li>
-                <li><a href="#" class="py-2 d-block">+91 9405-567-771</a></li>
+                <li><a href="#" class="py-2 d-block">+91 9028-777-471</a></li>
                 <li><a href="#" class="py-2 d-block">powercare777@gmail.com</a></li>
                 <li><a href="#" class="py-2 d-block">www.powercaregroup.com</a></li>
               </ul>

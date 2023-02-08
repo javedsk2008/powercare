@@ -10,7 +10,7 @@
 			
 			$to = 'javedsk2008@gmail.com';
 			$subject = 'Solar Enquiry';
-			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Name: ".$name."\n"."Bill No: ".$bill."\n"."Message: ".$message;
+			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Bill No: ".$bill."\n"."Monthly Bill: ".$monthly_bill."\n"."Message: ".$message;
 			$headers = "From: ".$email;
 			
 			if (($name=="") || ($mobile=="") )

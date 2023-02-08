@@ -1,0 +1,33 @@
+<?php
+//include("config.php");
+	if (isset($_POST['submit']))
+		{
+			$name= $_POST['name'];
+			$mobile= $_POST['mobile'];
+			$email= $_POST['email'];
+			$bill= $_POST['bill'];
+			$message= $_POST['message'];
+			
+			$to = 'javedsk2008@gmail.com';
+			$subject = 'IT Enquiry';
+			$message = "Name: ".$name."\n"."Phone: ".$mobile."\n"."Bill: ".$bill."\n"."Message: ".$message;
+			$headers = "From: ".$email;
+			
+			if(mail($to, $subject, $message, $headers))
+			{
+			echo '<script>alert("Thank you for sending email, We will get back to you Shorlty")</script>';
+			
+//			header("Location: index.php");
+				
+			}
+			else
+			{
+				echo '<script>alert("Something Went Wrong")</script>';
+				header("Location: contact.php");
+			}
+		}
+		header("Location: contact.php");
+	//	echo '<script>alert("Thank you for sending email, We will get back to you Shorlty")</script>';
+		
+
+?>
