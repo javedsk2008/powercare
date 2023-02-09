@@ -276,16 +276,16 @@
     </div>
 	
 	<div class="login-popup">
+	
+	<div class="close">&times;</div>
   	 <div class="box">
 		<div class="img-area">
   	 	 	<div class="img">
   	 	 	</div>
   	 	 </div>
-		     <!-- <div class="close">&times;</div> -->
+		     
   	 	 	
 			<form action="feedback3.php" method="POST" id="myForm" class="form">
-			<h1> Enquiry Form </h1>
-			<div class="close">&times;</div>
               <div class="form-group">
                 <input type="text" class="form-control" name="name" placeholder="Your Name *" required>
               </div>
@@ -302,13 +302,14 @@
                 <input type="number" class="form-control" name="monthly_bill" placeholder="Monthly Bill ">
               </div> -->
               <div class="form-group">
-                <textarea name="message" id="" cols="30" rows="3" class="form-control" placeholder="Message"></textarea>
+                <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
               </div>
               <div class="form-group">
                 <input name="submit" type="submit" value="Send Enquiry" class="btn btn-primary py-3 px-5">
               </div>
-			   <!-- <button type="button" class=" btn btn-cancel hello" onclick="closeForm()">Close</button> -->
+			   <button type="button" class="btn cancel close"  onclick="closeForm()">Close</button>
             </form>
+			
 			
 	</div>
 </div>
@@ -710,7 +711,7 @@
 	
 	<script>
 	const loginPopup = document.querySelector(".login-popup");
-  const close = document.querySelector(".hello");
+  const close = document.querySelector(".close");
 
 
   window.addEventListener("load",function(){

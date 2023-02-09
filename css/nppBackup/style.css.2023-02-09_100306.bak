@@ -9161,7 +9161,7 @@ body{
 .login-popup .box .form .close{
 	position: absolute;
 	right: 10px;
-	top:100px;
+	top:0px;
 	font-size: 30px;
 	cursor: pointer;
 }
