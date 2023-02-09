@@ -282,7 +282,7 @@
   	 	 	</div>
   	 	 	<h1>PowerCare</h1>
   	 	 </div>
-			<form action="feedback3.php" method="POST" id="" class="form">
+			<form action="feedback3.php" method="POST" id="">
               <div class="form-group">
                 <input type="text" class="form-control" name="name" placeholder="Your Name *" required>
               </div>

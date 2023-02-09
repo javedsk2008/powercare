@@ -9065,7 +9065,7 @@ body{
 }
 .login-popup .box{
 	background-color:#ffffff;
-	width: 350px;
+	width: auto;
 	position: absolute;
 	left: 50%;
 	top:50%;

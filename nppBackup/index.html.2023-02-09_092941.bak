@@ -262,27 +262,9 @@
           </div> -->
 		  
 		  
-		  
-
-        </div>
-        <div class="row mt-5 d-flex justify-content-center">
-          <div class="col-md-8 text-center heading-section ftco-animate">
-            <h2 class="h1">Grid installation, <strong class="px-3">Roof Top</strong> installation, with more than 7 years of experience in deploying solar panels</h2>
-            <p><a href="portfolio.html" class="btn btn-primary mt-3 py-3 px-5">Our Projects</a></p>
-          </div>
-        </div>
-      </div>
-    </section>
-    </div>
-	
-	<div class="login-popup">
+		  <div class="login-popup">
   	 <div class="box">
-		<div class="img-area">
-  	 	 	<div class="img">
-  	 	 	</div>
-  	 	 	<h1>PowerCare</h1>
-  	 	 </div>
-			<form action="feedback3.php" method="POST" id="" class="form">
+			<form action="feedback3.php" method="POST" id="">
               <div class="form-group">
                 <input type="text" class="form-control" name="name" placeholder="Your Name *" required>
               </div>
@@ -308,6 +290,17 @@
 			
 	</div>
 </div>
+
+        </div>
+        <div class="row mt-5 d-flex justify-content-center">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="h1">Grid installation, <strong class="px-3">Roof Top</strong> installation, with more than 7 years of experience in deploying solar panels</h2>
+            <p><a href="portfolio.html" class="btn btn-primary mt-3 py-3 px-5">Our Projects</a></p>
+          </div>
+        </div>
+      </div>
+    </section>
+    </div>
     
   
     <section class="ftco-section">

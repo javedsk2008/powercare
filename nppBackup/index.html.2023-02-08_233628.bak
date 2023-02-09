@@ -25,7 +25,6 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="style.css">
   </head>
   <body>
     
@@ -136,18 +135,18 @@
                 </div>
               </div>
 
-              <!-- <div class="col-md-12">
+              <div class="col-md-12">
                 <div class="row no-gutters d-flex align-items-start">
                   <div class="col-md-8">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
-                        <h3><br><span class="tag"></span></h3>
+                        <h3>Curator<br><span class="tag">Website</span></h3>
                       </div>
                       <img src="images/work/6.jpeg" class="img-fluid" alt="">
                       <div class="text p-4 d-flex align-items-center">
                         <div class="user d-flex align-items-center">
                           <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>  <br><span class="position"></span></h3>
+                          <h3>John Bruce <br><span class="position">Designer</span></h3>
                         </div>
                       </div>
                     </a>
@@ -155,13 +154,13 @@
                   <div class="col-md-4">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
-                        <h3><br><span class="tag"></span></h3>
+                        <h3>Tasty<br><span class="tag">Website</span></h3>
                       </div>
                       <img src="images/work/4.jpeg" class="img-fluid" alt="">
                       <div class="text p-4 d-flex align-items-center">
                         <div class="user d-flex align-items-center">
                           <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>  <br><span class="position"></span></h3>
+                          <h3>John Bruce <br><span class="position">Designer</span></h3>
                         </div>
                       </div>
                     </a>
@@ -181,13 +180,13 @@
                   <div class="col-md-8">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
-                        <h3><br><span class="tag"></span></h3>
+                        <h3>Racks<br><span class="tag">Website</span></h3>
                       </div>
                       <img src="images/work/7.jpeg" class="img-fluid" alt="">
                       <div class="text p-4 d-flex align-items-center">
                         <div class="user d-flex align-items-center">
                           <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>  <br><span class="position"></span></h3>
+                          <h3>John Bruce <br><span class="position">Designer</span></h3>
                         </div>
                       </div>
                     </a>
@@ -196,20 +195,20 @@
                   <div class="col-md-4">
                     <a href="#" class="featured-img">
                       <div class="text-1 p-4 d-flex align-items-center">
-                        <h3><br><span class="tag"></span></h3>
+                        <h3>Zendesk<br><span class="tag">Website</span></h3>
                       </div>
                       <img src="images/work/5.jpeg" class="img-fluid" alt="">
                       <div class="text p-4 d-flex align-items-center">
                         <div class="user d-flex align-items-center">
                           <div class="user-img mr-3" style="background-image: url(images/person_1.jpg);"></div>
-                          <h3>  <br><span class="position"></span></h3>
+                          <h3>John Bruce <br><span class="position">Designer</span></h3>
                         </div>
                       </div>
                     </a>
                   </div>
                   
                 </div>
-              </div> -->
+              </div>
 
               <div class="col-md-12">
                 <div class="row no-gutters d-flex align-items-start">
@@ -260,9 +259,6 @@
               </div>
             </a>
           </div> -->
-		  
-		  
-		  
 
         </div>
         <div class="row mt-5 d-flex justify-content-center">
@@ -274,40 +270,6 @@
       </div>
     </section>
     </div>
-	
-	<div class="login-popup">
-  	 <div class="box">
-		<div class="img-area">
-  	 	 	<div class="img">
-  	 	 	</div>
-  	 	 	<h1>PowerCare</h1>
-  	 	 </div>
-			<form action="feedback3.php" method="POST" id="" class="form">
-              <div class="form-group">
-                <input type="text" class="form-control" name="name" placeholder="Your Name *" required>
-              </div>
-			  <div class="form-group">
-                <input type="number" class="form-control" name="mobile" placeholder="Your Mobile *" required>
-              </div>
-              <div class="form-group">
-                <input type="email" class="form-control" name="email" placeholder="Your Email">
-              </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="bill" placeholder="Consumer Number">
-              </div>
-			  <!-- <div class="form-group">
-                <input type="number" class="form-control" name="monthly_bill" placeholder="Monthly Bill ">
-              </div> -->
-              <div class="form-group">
-                <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
-              </div>
-              <div class="form-group">
-                <input name="submit" type="submit" value="Send Enquiry" class="btn btn-primary py-3 px-5">
-              </div>
-            </form>
-			
-	</div>
-</div>
     
   
     <section class="ftco-section">
@@ -696,47 +658,46 @@
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="js/google-map.js"></script>
   <script src="js/main.js"></script>
-  <script src="script.js"></script>
   
   
   
-  
+  <div class="login-popup">
+  	 <div class="box">
+			<form action="feedback3.php" method="POST" id="myform">
+              <div class="form-group">
+                <input type="text" class="form-control" name="name" placeholder="Your Name *" required>
+              </div>
+			  <div class="form-group">
+                <input type="number" class="form-control" name="mobile" placeholder="Your Mobile *" required>
+              </div>
+              <div class="form-group">
+                <input type="email" class="form-control" name="email" placeholder="Your Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="bill" placeholder="Consumer Number">
+              </div>
+			  <!-- <div class="form-group">
+                <input type="number" class="form-control" name="monthly_bill" placeholder="Monthly Bill ">
+              </div> -->
+              <div class="form-group">
+                <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
+              </div>
+              <div class="form-group">
+                <input name="submit" type="submit" value="Send Enquiry" class="btn btn-primary py-3 px-5">
+              </div>
+            </form>
+			
+	</div>
+</div>
     
-	
-	
 	<script>
-	const loginPopup = document.querySelector(".login-popup");
-  const close = document.querySelector(".close");
+	function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
 
-
-  window.addEventListener("load",function(){
- 
-   showPopup();
-   // setTimeout(function(){
-   //   loginPopup.classList.add("show");
-   // },5000)
-
-  })
-
-  function showPopup(){
-        const timeLimit = 1 // seconds;
-        let i=0;
-        const timer = setInterval(function(){
-         i++;
-         if(i == timeLimit){
-          clearInterval(timer);
-          loginPopup.classList.add("show");
-         } 
-         console.log(i)
-        },1000);
-  }
-
-
-  close.addEventListener("click",function(){
-    loginPopup.classList.remove("show");
-  })
-
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
 </script>
-	
   </body>
 </html>
