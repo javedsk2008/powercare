@@ -122,7 +122,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Beed Head Office</h3>
+                <h3 class="heading">Aurangabad branch</h3>
                 <!-- <p>The company is founded by the Qualified Solar Professionals with experience accross the Globe</p> -->
               </div>
             </div>      
@@ -131,7 +131,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Nashik Branch</h3>
+                <h3 class="heading">Jalana Branch</h3>
                 <!-- <p>We ensure the safety of our workforce while adhering to the highest level of Health, Safety, and Environment norms.</p> -->
               </div>
             </div>      
@@ -140,7 +140,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Manmad Branch</h3>
+                <h3 class="heading">Malegaon Branch</h3>
                 <!-- <p>Our team consists of seasoned experts with experience in successfully handling projects involving every type of roof. </p> -->
               </div>
             </div>    
@@ -150,7 +150,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Parbhani Branch</h3>
+                <h3 class="heading">Ahmednagar Branch</h3>
                 <!-- <p>Dedicated in-house team monitors and services the Solar assets 24×7 leading to optimal power generation and maximum plant uptime.</p> -->
               </div>
             </div>      
@@ -197,7 +197,7 @@
             <div class="media block-6 services d-block text-center">
               <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
               <div class="media-body p-2 mt-3">
-                <h3 class="heading">Latur Branch</h3>
+                <h3 class="heading">Ahmednagar Branch</h3>
                 <!-- <p>Dedicated in-house team monitors and services the Solar assets 24×7 leading to optimal power generation and maximum plant uptime.</p> -->
               </div>
             </div>      
@@ -224,7 +224,7 @@
                 <li><a href="index.html" class="py-2 d-block">Home</a></li>
                <!--  <li><a href="#" class="py-2 d-block">Case studies</a></li> -->
                 <li><a href="services.html" class="py-2 d-block">Services</a></li>
-                <li><a href="projects.html" class="py-2 d-block">Projects</a></li>
+                <li><a href="portfolio.html" class="py-2 d-block">Portfolio</a></li>
                 <li><a href="about.html" class="py-2 d-block">About</a></li>
                 <li><a href="contact.html" class="py-2 d-block">Contact</a></li>
               </ul>
@@ -246,7 +246,7 @@
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://instagram.com/powercare_471?igshid=OGQ2MjdiOTE=" target="blank"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>

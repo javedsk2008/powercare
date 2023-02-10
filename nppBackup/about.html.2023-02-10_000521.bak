@@ -224,7 +224,7 @@
                 <li><a href="index.html" class="py-2 d-block">Home</a></li>
                <!--  <li><a href="#" class="py-2 d-block">Case studies</a></li> -->
                 <li><a href="services.html" class="py-2 d-block">Services</a></li>
-                <li><a href="projects.html" class="py-2 d-block">Projects</a></li>
+                <li><a href="projects.html" class="py-2 d-block" target="blank">Projects</a></li>
                 <li><a href="about.html" class="py-2 d-block">About</a></li>
                 <li><a href="contact.html" class="py-2 d-block">Contact</a></li>
               </ul>
@@ -246,7 +246,7 @@
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://instagram.com/powercare_471?igshid=OGQ2MjdiOTE=" target="blank"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://instagram.com/powercare_471?igshid=OGQ2MjdiOTE="><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>

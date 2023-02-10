@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Powercare - Contact</title>
+    <title>Powercare - About Us</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -28,7 +28,7 @@
   </head>
   <body>
     
-   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
      <a class="navbar-brand" href="index.html"><img src = ""><font color="navy">PowerCare-Group</font></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
@@ -38,11 +38,11 @@
       <div class="collapse navbar-collapse" id="ftco-nav">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item "><a href="index.html" class="nav-link">Home</a></li>
-          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+          <li class="nav-item active"><a href="about.html" class="nav-link">About</a></li>
 		  <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
 		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
 		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
+		 <li class="nav-item"><a href="client.html" class="nav-link">Client List</a></li>
 		 <li class="nav-item"><a href="projects.html" class="nav-link">Projects</a></li>
 		  <li class="nav-item"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
           
@@ -54,14 +54,15 @@
               </div>
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
-          <li class="nav-item active"><a href="contact.html" class="nav-link">Contact</a></li>
-          <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
+          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+         <!--  <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
         </ul>
       </div>
     </div>
   </nav>
     <!-- END nav -->
     
+    <!-- <div class="js-fullheight"> -->
     <div class="hero-wrap js-fullheight">
       <div class="overlay"></div>
       <div id="particles-js"></div>
@@ -69,70 +70,145 @@
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
             <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">PowerCare</a></span> <span></span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Contact</h1>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">About Us</h1>
           </div>
         </div>
       </div>
     </div>
     
-    <section class="ftco-section contact-section ftco-degree-bg">
-      <div class="container bg-light">
-        <div class="row d-flex mb-5 contact-info">
-          <div class="col-md-12 mb-4">
-            <h2 class="h4">Contact Information</h2>
-          </div>
-          <div class="w-100"></div>
-          <div class="col-md-3">
-            <p><span>Address:</span> G-32 Atther Babar Complex Nagar Parishad, Bashir Ganj, Beed, Maharashtra 431122</p>
-          </div>
-          <div class="col-md-3">
-            <!-- <p><span>Phone:</span> <br><a href="">+91 9028-777-471</a></p> -->
-			<p><span>Phone:</span> <br><a href="">+91 9405-567-771</a></p>
-          </div>
-          <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:info@yoursite.com">powercare777@gmail.com</a></p>
-          </div>
-          <div class="col-md-3">
-            <p><span>Website</span> <a href="#">www.powercaregroup.com</a></p>
+    <div class="bg-light">
+      <section class="ftco-section-featured ftco-section-featured-2 ftco-animate">
+        <div class="container-fluid" data-scrollax-parent="true">
+          <div class="row mt-5 d-flex justify-content-center">
+            <div class="col-md-12 text-center heading-section ftco-animate">
+              <h2 class="h1"><strong class="px-3">About Powercare</strong> </h2>
+			  <h5>
+			  Powercare Energies has emerged as one of the well-established cleantech ventures focussed on the execution of Solar PV projects. 
+			  The company has been founded by the young and dynamic Entrepreneurs with a mission to help masses make a transition 
+			  to solar energy in a hassle-free manner.
+			  </h5>
+
+<h2>Our Vision</h2>
+
+<h5><ul>To Build Sustainable Solar Infrastructure that will power the aspirations of Institutions and Businesses for Generations. </ul></h5>
+
+<h2>Our Mission</h2>
+
+<h5>
+1. To be known as a company that cares for its customers.
+<br>
+
+2. To have all our teams and stakeholders aligned on the goal to build highest quality of Solar infrastructure.
+<br>
+3. To work through the project life cycle ensuring the Customer Wins with lowest LCOE (Levelized Cost of Energy). 
+
+			  </h5>
+              <p><a href="contact.html" class="btn btn-primary mt-3 py-3 px-5">Get in touch</a></p>
+            </div>
           </div>
         </div>
-        <div class="row block-9">
-          <div class="col-md-6 pr-md-5">
-            <form action="feedback3.php" method="POST" id="myform">
-              <div class="form-group">
-                <input type="text" class="form-control" name="name" placeholder="Your Name *" required>
+      </section>
+    </div>
+
+   <section class="ftco-section">
+      <div class="container">		
+		
+		
+		
+		
+		
+		<div class="row mb-5">
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Beed Head Office</h3>
+                <!-- <p>The company is founded by the Qualified Solar Professionals with experience accross the Globe</p> -->
               </div>
-			  <div class="form-group">
-                <input type="number" class="form-control" name="mobile" placeholder="Your Mobile *" required>
+            </div>      
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Nashik Branch</h3>
+                <!-- <p>We ensure the safety of our workforce while adhering to the highest level of Health, Safety, and Environment norms.</p> -->
               </div>
-              <div class="form-group">
-                <input type="email" class="form-control" name="email" placeholder="Your Email">
+            </div>      
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Manmad Branch</h3>
+                <!-- <p>Our team consists of seasoned experts with experience in successfully handling projects involving every type of roof. </p> -->
               </div>
-              <div class="form-group">
-                <input type="text" class="form-control" name="bill" placeholder="Consumer Number">
-              </div>
-			  <!-- <div class="form-group">
-                <input type="number" class="form-control" name="monthly_bill" placeholder="Monthly Bill ">
-              </div> -->
-              <div class="form-group">
-                <textarea name="message" id="" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
-              </div>
-              <div class="form-group">
-                <input name="submit" type="submit" value="Send Enquiry" class="btn btn-primary py-3 px-5">
-              </div>
-            </form>
-          
+            </div>    
           </div>
 
-          <div class="col-md-6"> 
-		  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15090.782645086534!2d75.74644013436173!3d18.989043531021156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc52ade723b6f6b%3A0x154e5a1a0a9836e1!2sPower%20Care%20Group!5e0!3m2!1sen!2sin!4v1674066996429!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-		  </div>
-       </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Parbhani Branch</h3>
+                <!-- <p>Dedicated in-house team monitors and services the Solar assets 24×7 leading to optimal power generation and maximum plant uptime.</p> -->
+              </div>
+            </div>      
+          </div>
+        </div>
+		
+		
+		
+		
+		
+		
+		
+		
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-3 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Aurangabad branch</h3>
+                <!-- <p>The company is founded by the Qualified Solar Professionals with experience accross the Globe</p> -->
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-1 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Jalana Branch</h3>
+                <!-- <p>We ensure the safety of our workforce while adhering to the highest level of Health, Safety, and Environment norms.</p> -->
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-2 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Malegaon Branch</h3>
+                <!-- <p>Our team consists of seasoned experts with experience in successfully handling projects involving every type of roof. </p> -->
+              </div>
+            </div>    
+          </div>
+
+          <div class="col-md-6 col-lg-3 d-flex align-self-stretch ftco-animate">
+            <div class="media block-6 services d-block text-center">
+              <div class="d-flex justify-content-center"><div class="icon color-4 d-flex justify-content-center mb-3"><span class="align-self-center icon-leaf"></span></div></div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">Latur Branch</h3>
+                <!-- <p>Dedicated in-house team monitors and services the Solar assets 24×7 leading to optimal power generation and maximum plant uptime.</p> -->
+              </div>
+            </div>      
+          </div>
+        </div>
+        
       </div>
     </section>
     
 
-   <footer class="ftco-footer ftco-bg-dark ftco-section">
+    <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
@@ -170,7 +246,7 @@
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://instagram.com/powercare_471?igshid=OGQ2MjdiOTE=" target="blank"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="https://instagram.com/powercare_471?igshid=OGQ2MjdiOTE="><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>

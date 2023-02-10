@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Powercare | Projects</title>
+    <title>Powercare | Upcoming Projects</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -30,7 +30,7 @@
     
   <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
-      <a class="navbar-brand" href="index.html"><img src = ""><font color="navy">PowerCare-Group</font></a>
+     <a class="navbar-brand" href="index.html"><img src = ""><font color="navy">PowerCare-Group</font></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="oi oi-menu"></span> Menu
       </button>
@@ -42,9 +42,9 @@
 		  <li class="nav-item"><a href="services.html" class="nav-link">Services</a></li>
 		 <!--  <li class="nav-item"><a href="portfolio.html" class="nav-link">Projects</a></li> -->
 		 <li class="nav-item"><a href="gallery.html" class="nav-link">Gallery</a></li>
-		 <li class="nav-item active"><a href="client.html" class="nav-link">Client List</a></li>
+		 <li class="nav-item "><a href="client.html" class="nav-link">Client List</a></li>
 		 <li class="nav-item "><a href="projects.html" class="nav-link">Projects</a></li>
-		  <li class="nav-item"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
+		  <li class="nav-item active"><a href="upcoming.html" class="nav-link">Upcoming Projects</a></li>
           
          <!--  <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="portfolio.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Portfolio</a>
@@ -55,7 +55,7 @@
           </li>
           <li class="nav-item"><a href="blog.html" class="nav-link">Case Studies</a></li> -->
           <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
-         <!--  <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
+          <!-- <li class="nav-item cta"><a href="#" class="nav-link"><span>Get in touch</span></a></li> -->
         </ul>
       </div>
     </div>
@@ -69,7 +69,7 @@
         <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-6 ftco-animate text-center" data-scrollax=" properties: { translateY: '70%' }">
             <p class="breadcrumbs" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }"><span class="mr-2"><a href="index.html">Powercare</a></span> <span class="mr-2"><a href="blog.html"></a></span> <span></span></p>
-            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Projects</h1>
+            <h1 class="mb-3 bread" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Upcoming Projects</h1>
           </div>
         </div>
       </div>
@@ -90,129 +90,56 @@
             </div> -->
             <div class="col-md-16 sidebar-box ftco-animate">
               <div class="categories">
-                <h2>List of Our Completed Projects in and around State of Maharashtra</h2>
-					
+                <h2> Our Upcoming Projects</h2>
             </div>
-			
-			<table class="tab" id="customers">
-  <tr>
-    <th>Customer Name</th>
-    <th>City</th>
-    <th>Grid in KW</th>
-  </tr>
-  <tr>
-    <td>HITESH THAKKER</td>
-    <td>BEED</td>
-    <td>10 KW</td>
-  </tr>
-  <tr>
-    <td>AMBIKA RECHARGE </td>
-    <td>BEED</td>
-    <td>20 KW</td>
-  </tr>
-  <tr>
-    <td>ALNE HOSPITAL</td>
-    <td>BEED</td>
-    <td>10 + 25 KW</td>
-  </tr>
-  <tr>
-    <td>VIVEK SIR</td>
-    <td>WADWANI</td>
-    <td>10 KW</td>
-  </tr>
-  <tr>
-    <td>DR. PURBHE PETROL PUMP</td>
-    <td>BEED</td>
-    <td>10 KW</td>
-  </tr>
-  <tr>
-    <td>GAOREE TRADERS NILESH MUNDADA</td>
-    <td>BEED</td>
-    <td>15 KW</td>
-  </tr>
-  <tr>
-    <td>ARCHITECT NILESH MUNDADA</td>
-    <td>BEED</td>
-    <td>15 KW</td>
-  </tr>
-  <tr>
-    <td>PAPPU TAKWANI </td>
-    <td>BEED</td>
-    <td>50 KW</td>
-  </tr>
-  <tr>
-    <td>HOTEL DIVYA GARDEN</td>
-    <td>BEED</td>
-    <td>30 KW</td>
-  </tr>
-  <tr>
-    <td>HOTEL GAVRAV</td>
-    <td>BEED</td>
-    <td>60 KW</td>
-  </tr>
-  
-  
-  
-  
-  
-  <tr>
-    <td>SAMARTH HOSPITAL</td>
-    <td>BEED</td>
-    <td>20 KW</td>
-  </tr>
-  <tr>
-    <td>SARDA KANHIYYA DRYFRUITS </td>
-    <td>BEED</td>
-    <td>20 KW</td>
-  </tr>
-  <tr>
-    <td>ABDUL KHALEK ABDUL GAFFAR</td>
-    <td>BEED</td>
-    <td>20 KW</td>
-  </tr>
-  <tr>
-    <td>SHAHANAWAJ GAFFARSAB SAYYED</td>
-    <td>LATUR</td>
-    <td>10 KW</td>
-  </tr>
-  <tr>
-    <td>NISAR AHAMAD RAYYAN</td>
-    <td>MALEGAON</td>
-    <td>60 KW</td>
-  </tr>
-  <tr>
-    <td>KULYATUT TAIRAT MADARSA</td>
-    <td>MALEGAON</td>
-    <td>15 KW</td>
-  </tr>
-  <tr>
-    <td>MADARSA YAATIM KHANA </td>
-    <td>MALEGAON</td>
-    <td>25 KW</td>
-  </tr>
-  <tr>
-    <td>SR BATTERY INDUSTRY  </td>
-    <td>MALEGAON</td>
-    <td>300 KW</td>
-  </tr>
-  <tr>
-    <td>KGN HOSPITAL</td>
-    <td>LATUR</td>
-    <td>30 KW</td>
-  </tr>
-  <tr>
-    <td>DIAMOND LAWNS</td>
-    <td>LATUR</td>
-    <td>15 + 20 KW</td>
-  </tr>
-  <tr>
-    <td>MADARSA MUFTI ABDUL JALEEL SAHAB</td>
-    <td>MALEGAON</td>
-    <td>20 KW</td>
-  </tr>
-</table>
 
-           
+            <div class="sidebar-box ftco-animate">
+              <h3>Coming soon in Cities near you</h3>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/upcoming.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>4 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> February, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                    
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/uc2.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>1.7 MW</b> Project coming soon in the city of <strong>MALEGAON</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> March, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                    <!-- <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
+                  </div>
+                </div>
+              </div>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/uc3.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>1.2 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> April, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
+                  </div>
+                </div>
+              </div>
+			  <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/uc4.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading"><a href="#"><b>5 MW</b> Project coming soon in the city of <strong>BEED</strong></a></h3>
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> Sept, 2023</a></div>
+                    <div><a href="#"><span class="icon-person"></span> Powercare Group</a></div>
+                   <!--  <div><a href="#"><span class="icon-chat"></span> 19</a></div> -->
+                  </div>
+                </div>
+              </div>
+            </div>
 
             <!-- <div class="sidebar-box ftco-animate">
               <h3>Tag Cloud</h3>
@@ -236,7 +163,7 @@
     </section> <!-- .section -->
     
 
-   <footer class="ftco-footer ftco-bg-dark ftco-section">
+    <footer class="ftco-footer ftco-bg-dark ftco-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
@@ -252,7 +179,7 @@
                 <li><a href="index.html" class="py-2 d-block">Home</a></li>
                <!--  <li><a href="#" class="py-2 d-block">Case studies</a></li> -->
                 <li><a href="services.html" class="py-2 d-block">Services</a></li>
-                <li><a href="projects.html" class="py-2 d-block">Projects</a></li>
+                <li><a href="portfolio.html" class="py-2 d-block">Portfolio</a></li>
                 <li><a href="about.html" class="py-2 d-block">About</a></li>
                 <li><a href="contact.html" class="py-2 d-block">Contact</a></li>
               </ul>
@@ -274,7 +201,7 @@
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="https://instagram.com/powercare_471?igshid=OGQ2MjdiOTE=" target="blank"><span class="icon-instagram"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
               </ul>
             </div>
           </div>
